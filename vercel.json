@@ -1,9 +1,5 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "installCommand": "npm ci",
-  "nodejs": "24.x",
-  "env": {
-    "npm_config_force": "true"
-  }
+  "installCommand": "npm ci"
 }
